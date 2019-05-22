@@ -88,14 +88,6 @@ th.columns.last {
 th.columns table:not(.button) {
   width: 100%; }
 
-th.large-2 {
-  width: 84px;
-  padding-left: 8px;
-  padding-right: 8px; }
-
-th.large-2.first {
-  padding-left: 16px; }
-
 th.large-3 {
   width: 134px;
   padding-left: 8px;
@@ -124,14 +116,6 @@ th.large-9 {
   padding-right: 8px; }
 
 th.large-9.last {
-  padding-right: 16px; }
-
-th.large-10 {
-  width: 484px;
-  padding-left: 8px;
-  padding-right: 8px; }
-
-th.large-10.last {
   padding-right: 16px; }
 
 th.large-12 {
@@ -170,8 +154,6 @@ p.text-center {
   .small-float-center {
     margin: 0 auto !important;
     float: none !important;
-    text-align: center !important; }
-  .small-text-center {
     text-align: center !important; } }
 
 img.float-right {
@@ -243,10 +225,6 @@ a {
     color: #5b921a; }
   a:visited {
     color: #76bd22; }
-
-h3 a,
-h3 a:visited {
-  color: #76bd22; }
 
 span.invisible-previewline {
   display: none !important;
@@ -364,14 +342,6 @@ h2 {
   color: #ffffff;
   text-decoration: underline; }
 
-p.larger {
-  font-size: 20px;
-  line-height: 24px;
-  font-weight: 300; }
-
-p.larger a {
-  font-weight: 300; }
-
 .footer {
   background: #4a4f55; }
 
@@ -399,9 +369,6 @@ p.larger a {
 
 .unsubscribe a:hover {
   color: #000000; }
-
-.signature img {
-  max-width: 200px; }
 
 .social-media {
   background: #f3f3f3; }
